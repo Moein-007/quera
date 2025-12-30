@@ -44,4 +44,77 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td>فاکتوریل</td>
+    <td>
+      <a href="https://quera.org/problemset/589"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/Moein-007/ec92c8f1a0de6e86b897f872d1c00bc9"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>یخدارچی</td>
+    <td>
+      <a href="https://quera.org/problemset/3429"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/Moein-007/568d29cd417356982df2f1f9b2959a0d"
+         style="background:#1f6feb; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>اعداد فیثاغورثی</td>
+    <td>
+      <a href="https://quera.org/problemset/280"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/Moein-007/72f87e4c0e19e7c7fe74390cf9c8d2f1"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>مشق امشب باقر</td>
+    <td>
+      <a href="https://quera.org/problemset/10230"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/Moein-007/2384a8adb4dcf61a8277d6b3f53ef1bb"
+         style="background:#1f6feb; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+  </tr>
+  
 </table>
