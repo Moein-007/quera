@@ -116,5 +116,41 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td>جدول ضرب گنده</td>
+    <td>
+      <a href="https://quera.org/problemset/3409"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/Moein-007/9a0e1e891ae9808fa2c1df9a57bc7542"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>تک‌رقمی</td>
+    <td>
+      <a href="https://quera.org/problemset/3539"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/Moein-007/8e7f4f37014c6e7583cd5e9e4664677c"
+         style="background:#1f6feb; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+  </tr>
   
 </table>
