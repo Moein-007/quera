@@ -152,5 +152,41 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td>روز آزادی بیان در برره</td>
+    <td>
+      <a href="https://quera.org/problemset/10162"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/Moein-007/8595c4364a8ae249742f96f0605cfeb0"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>کامل بودن یا نبودن</td>
+    <td>
+      <a href="https://quera.org/problemset/282"
+         style="background:#238636; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+    <td>
+      <a href="https://gist.github.com/Moein-007/2c3faed4d615fae1f20228ff90f63aa0"
+         style="background:#1f6feb; color:white; padding:6px 12px;
+                text-decoration:none; border-radius:6px;">
+         مشاهده
+      </a>
+    </td>
+  </tr>
   
 </table>
